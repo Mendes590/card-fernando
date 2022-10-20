@@ -14,7 +14,8 @@ body::before {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: url(imagem/carreta.jpg) no-repeat center;
+  background: url(imagem/carreta.jpg) no-repeat center center;
+  background-size: 1vh;
   filter: blur(15px);
   background-size: cover;
   -webkit-animation: backgroundZoomAnimate 20s forwards;
@@ -49,7 +50,7 @@ body::before {
   gap: 15px;
 }
 .profile-card__desc h1 {
-  font-size: 10rem;
+  font-size: 8.3rem;
   font-weight: bold;
 }
 .profile-card__desc h1 + div {
