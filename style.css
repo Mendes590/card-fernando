@@ -116,16 +116,16 @@ body::before {
     transform: scale(1.2) translateY(-5px);
   }
   .profile-card a.email {
-    background: linear-gradient(rgb(121, 0, 0), rgb(121, 0, 0));
+    background: linear-gradient(rgb(121, 0, 0), rgb(99, 0, 0));
   }
   .profile-card a.telefone {
-    background: linear-gradient(to right, rgb(121, 0, 0), rgb(121, 0, 0));
+    background: linear-gradient(to right, rgb(121, 0, 0), rgb(99, 0, 0));
   }
   .profile-card a.instagram {
-    background: linear-gradient(to bottom, rgb(121, 0, 0), rgb(121, 0, 0), rgb(121, 0, 0));
+    background: linear-gradient(to bottom, rgb(121, 0, 0), rgb(121, 0, 0),rgb(99, 0, 0));
   }
   .profile-card a.whatsapp {
-    background: linear-gradient(rgb(121, 0, 0), rgb(121, 0, 0));
+    background: linear-gradient(rgb(121, 0, 0), rgb(99, 0, 0));
   }
 }
 .profile-card__actions {
