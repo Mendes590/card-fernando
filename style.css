@@ -15,8 +15,6 @@ body::before {
   z-index: -1;
   pointer-events: none;
   background: url(imagem/carreta.jpg) no-repeat center center;
-  background-attachment: fixed;
-  background-position: center;
   filter: blur(15px);
   background-size: cover;
   -webkit-animation: backgroundZoomAnimate 20s forwards;
