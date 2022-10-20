@@ -14,8 +14,8 @@ body::before {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: url(imagem/carreta.jpg) no-repeat center center;
-  filter: blur(15px);
+  background: url(imagem/bg4.png) no-repeat center center;
+  filter: blur(40px);
   background-size: cover;
   -webkit-animation: backgroundZoomAnimate 20s forwards;
           animation: backgroundZoomAnimate 20s forwards;
