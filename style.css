@@ -156,7 +156,7 @@ body::before {
   }
 }
 .profile-card__actions > a > button.red {
-  background: linear-gradient(red, red);
+  background: linear-gradient(rgb(121, 0, 0), rgb(112, 0, 0));
 }
 .profile-card__actions > a > button.green {
   background: linear-gradient(#8a8ae0, #a2a2d4);
